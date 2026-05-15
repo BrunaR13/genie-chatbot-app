@@ -6,6 +6,8 @@ Interface de chat que se integra a múltiplas salas Genie para consultas em ling
 
 <img width="1717" height="881" alt="Screenshot 2026-05-15 at 13 19 38" src="https://github.com/user-attachments/assets/3f451f23-3d87-4a41-804c-1dc3bdbd7a69" />
 
+<img width="1719" height="878" alt="Screenshot 2026-05-15 at 13 20 37" src="https://github.com/user-attachments/assets/090930bf-e852-4762-9389-39041380df36" />
+
 
 ## Funcionalidades
 
