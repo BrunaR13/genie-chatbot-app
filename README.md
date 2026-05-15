@@ -4,6 +4,9 @@ Interface de chat que se integra a múltiplas salas Genie para consultas em ling
 
 <img width="1719" height="886" alt="Screenshot 2026-05-15 at 13 17 40" src="https://github.com/user-attachments/assets/a16eb5d8-d572-497c-ae68-c627e5333ee6" />
 
+<img width="1717" height="881" alt="Screenshot 2026-05-15 at 13 19 38" src="https://github.com/user-attachments/assets/3f451f23-3d87-4a41-804c-1dc3bdbd7a69" />
+
+
 ## Funcionalidades
 
 - **Chat com Genie**: Faça perguntas em linguagem natural e receba respostas com dados
