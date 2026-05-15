@@ -1,0 +1,17 @@
+command:
+  - "python"
+  - "-m"
+  - "uvicorn"
+  - "app:app"
+  - "--host"
+  - "0.0.0.0"
+  - "--port"
+  - "8000"
+
+env: []
+
+# OAuth scopes for on-behalf-of-user access
+user_api_scopes:
+  - sql
+  - genie
+  - serving
