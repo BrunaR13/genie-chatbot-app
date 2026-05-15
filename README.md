@@ -1,6 +1,8 @@
 # Genie Chatbot App
 
-Aplicação de chat que integra com Databricks Genie para consultas em linguagem natural sobre dados.
+<img width="1719" height="886" alt="Screenshot 2026-05-15 at 13 17 40" src="https://github.com/user-attachments/assets/a16eb5d8-d572-497c-ae68-c627e5333ee6" />
+
+Interface de chat que se integra a múltiplas salas Genie para consultas em linguagem natural sobre dados.
 
 ## Funcionalidades
 
